@@ -1,7 +1,7 @@
 # Third-Party Software Notices and Information
 
 THE FOLLOWING SETS FORTH ATTRIBUTION NOTICES FOR THIRD PARTY SOFTWARE THAT MAY BE CONTAINED IN THIS APPLICATION.
-We thank the open source communicty for all of their efforts. If you have any questions about these notices please email us at thangnd.uit07@gmail.com.
+We thank the open source communicty for all of their efforts. If you have any questions about these notices please email us.
 
 **flutter**
 Copyright 2014 The Flutter Authors. All rights reserved.
